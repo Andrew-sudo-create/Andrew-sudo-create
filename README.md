@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Andrew Kriegler logo" width="900" />
+  <img src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/png_iqqofh_zzywuc.png" alt="Andrew Kriegler logo" width="900" />
 </p>
 
 <p align="center">
